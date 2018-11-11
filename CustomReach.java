@@ -1,4 +1,4 @@
-package ALCO.plugin;
+package CustomReach.plugin;
 
 import net.minecraft.server.v1_13_R2.AxisAlignedBB;
 import net.minecraft.server.v1_13_R2.EntityLiving;
@@ -19,7 +19,6 @@ import java.util.Map;
 
 /**
  * Created by taguhca on 2018/11/11.
- * Full spec ver
  */
 public class CustomReach {
     private double range;
